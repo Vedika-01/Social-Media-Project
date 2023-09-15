@@ -1,0 +1,8 @@
+{
+  "appId": "com.social.app",
+  "appName": "social",
+  "webDir": "www.social.com",
+  "server": {
+    "androidScheme": "https"
+  }
+}
